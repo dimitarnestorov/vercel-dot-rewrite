@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/./hello"
+  to = "/api/hello"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/hello"
+  to = "/api/hello"
+  status = 200
+  force = true
